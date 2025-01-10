@@ -1,6 +1,8 @@
+package hw9jan;
+
 import java.util.Scanner;
 
-public class SumValue {
+public class sumValue {
     public static int a;
     public static int b;
     public static int sum;
